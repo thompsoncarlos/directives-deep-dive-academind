@@ -11,16 +11,12 @@ This project is a hands-on practice repository for learning and mastering Angula
 
 - **Angular 18** (with Angular CLI)
 - **TypeScript**
-- **RxJS**
 - **HTML5 & CSS3**
-- **Karma** (for unit testing)
 
 ## Course Reference
 
 This repository follows exercises and examples from the Academind course:
 - [Angular - The Complete Guide (Udemy)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
-
-## Development server
 
 ## Development server
 
