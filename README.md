@@ -1,6 +1,26 @@
-# DirectivesDeepDive
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+# Directives Deep Dive
+
+<img src="./public/cover.png" width="50%" height="50%" alt="cover project" />
+
+## Project Description
+
+This project is a hands-on practice repository for learning and mastering Angular Directives, based on the "Angular - The Complete Guide" course by Academind on Udemy. It demonstrates custom structural and attribute directives, best practices, and real-world usage scenarios to enhance Angular applications.
+
+## Technologies Used
+
+- **Angular 18** (with Angular CLI)
+- **TypeScript**
+- **RxJS**
+- **HTML5 & CSS3**
+- **Karma** (for unit testing)
+
+## Course Reference
+
+This repository follows exercises and examples from the Academind course:
+- [Angular - The Complete Guide (Udemy)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+## Development server
 
 ## Development server
 
